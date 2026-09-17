@@ -4,7 +4,7 @@
   "hasRings": false,
   "mainAtmosphere": [],
   "surfaceTemperatureC": {
-    "min": -173,
+    "min": -200,
     "max": 427,
     "mean": 67
   }
